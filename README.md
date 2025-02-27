@@ -24,5 +24,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ### Laravel 12 - Welcome Page
 ![laravel-12](https://github.com/user-attachments/assets/d7426dcc-c0fc-418d-9577-ece51e6379ed)
 
+#### Default layout
+![default-layout](https://github.com/user-attachments/assets/3787fd8b-eb13-44dd-898d-392bb2bb435b)
+
+
+
 
 
