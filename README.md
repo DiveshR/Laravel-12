@@ -27,6 +27,8 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 #### Default layout
 ![default-layout](https://github.com/user-attachments/assets/3787fd8b-eb13-44dd-898d-392bb2bb435b)
 
+#### Header App layout
+![app-layout](https://github.com/user-attachments/assets/a4c72695-87c7-4245-bb23-5518cf18d4cd)
 
 
 
